@@ -6,8 +6,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[netMini.py Packet capture tool for real-time network traffic analysis ](https://github.com/MarquisCarabas/netMini.py)**
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Vulnerability Management Program Implementation]()**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
 
 ## 🚨 Threat Hunting and Security Operations
 
