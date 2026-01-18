@@ -4,7 +4,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🔧 Security Automation & Tools
 
-- **[Magic Triage File Tool - Python-based malware detection and categorization](https://github.com/MarquisCarabas/file_triage)**
+- **[Magic Triage File Tool - Python-based malware detection and categorization](https://github.com/MarquisCarabas/magic_triage)**
 
 ## 🚨 Threat Hunting and Security Operations
 
