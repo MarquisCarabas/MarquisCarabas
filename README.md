@@ -4,11 +4,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🔧 Security Automation & Tools
 
-- **[file_triage.py File Triage Tool - Python-based malware detection and categorization](https://github.com/MarquisCarabas/file_triage)**
+- **[Magic Triage File Tool - Python-based malware detection and categorization](https://github.com/MarquisCarabas/file_triage)**
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[NetMini.py Packet capture tool for real-time network traffic analysis ](https://github.com/MarquisCarabas/netMini.py)**
+- **[NetMini Packet capture tool for real-time network traffic analysis ](https://github.com/MarquisCarabas/netMini.py)**
 - **[Threat Hunting Scenario (Tor Browser Usage)]()**
 
 ## ⚠️ Vulnerability Management Projects
