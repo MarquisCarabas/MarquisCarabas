@@ -5,7 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[netMini.py Packet capture tool for real-time network traffic analysis ](https://github.com/MarquisCarabas/netMini.py)**
+- **[NetMini.py Packet capture tool for real-time network traffic analysis ](https://github.com/MarquisCarabas/netMini.py)**
 - **[Threat Hunting Scenario (Tor Browser Usage)]()**
 
 ## ⚠️ Vulnerability Management Projects
