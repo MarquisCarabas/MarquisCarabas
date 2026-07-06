@@ -12,10 +12,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[NetMini Packet capture tool for real-time network traffic analysis ](https://github.com/MarquisCarabas/netMini.py)**
 - **[Threat Hunting Scenario (Tor Browser Usage)]()**
 
-'## ⚠️ Vulnerability Management Projects'
+"## ⚠️ Vulnerability Management Projects"
 
-'- **[Vulnerability Management Program Implementation]()**'
-'- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**'
+"- **[Vulnerability Management Program Implementation]()**"
+"- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**"
 
 <hr/>
 
