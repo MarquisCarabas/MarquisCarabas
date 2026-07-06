@@ -18,17 +18,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 "- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**"
 -->
 <hr/>
-## 🔧 Security Automation & Tools
 
-- **[Magic Triage: Python malware detection and categorization script](https://github.com/MarquisCarabas/magic_triage)**
-- **[Secure-Setup: PowerShell Windows Security Hardening Script](https://github.com/MarquisCarabas/Secure-Setup)**
-
-## 🚨 Threat Hunting and Security Operations
-
-- **[NetMini Packet capture tool for real-time network traffic analysis ](https://github.com/MarquisCarabas/netMini.py)**
-- **[Threat Hunting Scenario (Tor Browser Usage)]()**
-
-<hr/>
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
